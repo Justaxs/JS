@@ -40,5 +40,5 @@ function filterAdults(masyvas) {
   });
 }
 
-console.log("Vartotojai turintys šunis: ", filterDogOwners(users));
-console.log("Vartotojai kurie yra pilnamečiai: ", filterAdults(users));
+// console.log("Vartotojai turintys šunis: ", filterDogOwners(users));
+// console.log("Vartotojai kurie yra pilnamečiai: ", filterAdults(users));

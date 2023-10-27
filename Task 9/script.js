@@ -39,5 +39,5 @@ const test2 = new Movie({
     budget: 9999999999
 });
 
-console.log(`${test1.title} Biudžeto tinkamumas: ${test1.wasExpensive()}`);
-console.log(`${test2.title} Biudžeto tinkamumas: ${test2.wasExpensive()}`);
+// console.log(`${test1.title} Biudžeto tinkamumas: ${test1.wasExpensive()}`);
+// console.log(`${test2.title} Biudžeto tinkamumas: ${test2.wasExpensive()}`);

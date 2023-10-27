@@ -18,4 +18,4 @@ function showObjectKeys(objektas) {
 
 // na nieko čia pasakoti, funkcija priima viena argumenta,  skirtą objektui, grąžiną objekto visus raktinius žodžius masyve.
 
-console.log(showObjectKeys(audi));
+// console.log(showObjectKeys(audi));

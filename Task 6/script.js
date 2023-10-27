@@ -36,5 +36,5 @@ function getUsersNames(masyvas) { // trumpai ir aiškiai, sukuriau funkcija su v
   return varduMasyvas;
 }
 
-console.log("Vartotojų metų vidurkis: " + getUserAverageAge(users));
-console.log("Vardai iš masyvo: " + getUsersNames(users));
+// console.log("Vartotojų metų vidurkis: " + getUserAverageAge(users));
+// console.log("Vardai iš masyvo: " + getUsersNames(users));

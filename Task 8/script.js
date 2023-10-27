@@ -30,7 +30,7 @@ class Calculator {
 
 const skaiciuotuvas = new Calculator();
 
-console.log(skaiciuotuvas.sudetis(10, 10));  // 20
-console.log(skaiciuotuvas.atimtis(20, 10));  // 10
-console.log(skaiciuotuvas.daugyba(10, 10));  // 100
-console.log(skaiciuotuvas.dalyba(100, 10));  // 10
+// console.log(skaiciuotuvas.sudetis(10, 10));  // 20
+// console.log(skaiciuotuvas.atimtis(20, 10));  // 10
+// console.log(skaiciuotuvas.daugyba(10, 10));  // 100
+// console.log(skaiciuotuvas.dalyba(100, 10));  // 10
